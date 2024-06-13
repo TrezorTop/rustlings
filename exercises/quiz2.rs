@@ -20,9 +20,6 @@
 //
 // No hints this time!
 
-// I AM NOT DONE
-
-#[derive(Debug)]
 pub enum Command {
     Uppercase,
     Trim,
